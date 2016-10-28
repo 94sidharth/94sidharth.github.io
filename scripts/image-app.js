@@ -47,7 +47,7 @@
     w.postMessage({'imageData':imageData, 'type':type});
     console.log("send");
 
-    w.onMessage = function(e){
+    w.onmessage = function(e){
       console.log("received");
       toggleButtonsAbledness();
       var image = e.data;
