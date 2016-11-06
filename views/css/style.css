@@ -45,7 +45,17 @@ form {
   display: table;
   clear:both;
 }
-
+/*new code*/
+.randomPizzaContainer.sizeOne{
+  width:25%;
+}
+.randomPizzaContainer.sizeTwo{
+  width:33.33%;
+}
+.randomPizzaContainer.sizeThree{
+  width:50%;
+}
+/*end*/
  .container {
   background-color: rgba(240, 60, 60, 0.8);
 }
