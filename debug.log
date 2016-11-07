@@ -1,1 +1,12 @@
 [1105/221221:ERROR:file_io.cc(30)] read: expected 36, observed 0
+[1106/095850:ERROR:process_info.cc(608)] range at 0xdcb43a6a00000000, size 0xb8 fully unreadable
+[1106/095850:ERROR:process_info.cc(608)] range at 0xdcb43a8a00000000, size 0xb8 fully unreadable
+[1106/095850:ERROR:process_info.cc(608)] range at 0x0, size 0xb8 fully unreadable
+[1106/095850:WARNING:in_range_cast.h(38)] value 8790733229984 out of range
+[1106/095850:WARNING:in_range_cast.h(38)] value 8790733847052 out of range
+[1106/095850:WARNING:in_range_cast.h(38)] value 8790733847108 out of range
+[1106/095850:WARNING:in_range_cast.h(38)] value 6367188090309032570 out of range
+[1106/095850:WARNING:in_range_cast.h(38)] value 6935924450530639011 out of range
+[1106/095850:WARNING:in_range_cast.h(38)] value 6901930188088675448 out of range
+[1106/095850:WARNING:in_range_cast.h(38)] value 1926463443200266484 out of range
+[1106/095850:WARNING:in_range_cast.h(38)] value 5768244550696815591 out of range
